@@ -1,0 +1,16 @@
+.amostraPortfolio{
+	background-color: #FAFFFC;
+	border: 8px solid black;
+	width: 300px;
+	margin: 10px 10px 10px 0;
+	padding: 16px;
+	float: left;
+}
+
+.uppercase{
+	text-transform: uppercase;
+}
+
+.amostraPortfolio img{
+	width: 100%;
+}
